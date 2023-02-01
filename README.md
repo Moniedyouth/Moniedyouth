@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at **[https://github.com/Moniedyouth](https://github.com/Moniedyouth)**
 
-- 💬 Ask me about **who is Egon Schiele?**
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:max1794.k@gmail.com" target="_blank"><img align="center" alt="Maxim Kriakovtsev Gmail" height="65" 
@@ -25,17 +23,11 @@ src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="65"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png" alt="cypress" width="50" height="50"/> </a>
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="50" height="50"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/django.png" alt="django" width="50" height="50"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-<a href="https://www.sourcetreeapp.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-sourcetree-is-a-nice-alternative-to-the-git-command-line-logo-color-tal-revivo.png" alt="typescript" width="50" height="50"/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
-<a href="https://www.soapui.org/" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/soapui-icon.png" alt="typescript" width="50" height="50"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> </a>
 <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="50" height="50"/> </a>
 <a href="https://semaphoreci.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354324/semaphoreci.svg" alt="travisci" width="50" height="50"/> </a>
-<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/144/000000/webstorm.png" alt="typescript" width="50" height="50"/> </a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> </p>
 
