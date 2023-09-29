@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxim Kriakovtsev </h1>
 <h3 align="center">Attentive to the details Automation QA from Ukraine</h3>
 
-- 🐝 I'm working as an **Automation QA** at **[SAM-SOLUTIONS](https://sam-solutions.by/)**
+- 🐝 I'm working as an **Automation QA** 
 
 - 🌱 I'm writing mostly on JavaScript/TypeScript with **[Cypress.io](https://www.cypress.io/)** and **[Playwright](https://playwright.dev/)**
 
@@ -39,12 +39,6 @@ src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="65"/></a>
 ## Work
 
 <table>
-      <tr>
-        <td>Oct 2022 - now</td>
-        <td><a href="https://sam-solutions.by/">Sam-Solutions</a>.
-          Lead Automation QA Engineer
-        </td>
-      </tr>
       <tr>
         <td>Sep 2021 - Sep 2022</td>
         <td><a href="https://luxequality.com/">LuxeQuality</a>.
